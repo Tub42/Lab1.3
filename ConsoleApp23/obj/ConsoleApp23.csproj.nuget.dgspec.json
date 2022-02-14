@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubgtu\\source\\repos\\ConsoleApp23\\ConsoleApp23.csproj": {}
+    "C:\\Users\\kubgtu\\Desktop\\Lab1.3\\ConsoleApp23\\ConsoleApp23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubgtu\\source\\repos\\ConsoleApp23\\ConsoleApp23.csproj": {
+    "C:\\Users\\kubgtu\\Desktop\\Lab1.3\\ConsoleApp23\\ConsoleApp23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubgtu\\source\\repos\\ConsoleApp23\\ConsoleApp23.csproj",
+        "projectUniqueName": "C:\\Users\\kubgtu\\Desktop\\Lab1.3\\ConsoleApp23\\ConsoleApp23.csproj",
         "projectName": "ConsoleApp23",
-        "projectPath": "C:\\Users\\kubgtu\\source\\repos\\ConsoleApp23\\ConsoleApp23.csproj",
+        "projectPath": "C:\\Users\\kubgtu\\Desktop\\Lab1.3\\ConsoleApp23\\ConsoleApp23.csproj",
         "packagesPath": "C:\\Users\\kubgtu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubgtu\\source\\repos\\ConsoleApp23\\obj\\",
+        "outputPath": "C:\\Users\\kubgtu\\Desktop\\Lab1.3\\ConsoleApp23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kubgtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
         }
       }
     }
