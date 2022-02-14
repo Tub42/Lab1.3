@@ -6,7 +6,7 @@ namespace ConsoleApp23
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Это я ");
+            Console.WriteLine("Это я!");
             Console.WriteLine("А это не он!");
         }
     }
